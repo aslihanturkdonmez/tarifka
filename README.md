@@ -26,8 +26,8 @@ API'dan Veri Çekme & Listeleme
 
 Terminal üzerinde aşağıdaki komutlar çalıştırılmalıdır: 
 ```sh
-git clone https://github.com/aslihanturkdonmez/tabu-react-native.git
-cd tabu-react-native
+git clone https://github.com/aslihanturkdonmez/tarifka.git
+cd tarifka
 npm install
 ```
 
